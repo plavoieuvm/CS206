@@ -1,0 +1,11 @@
+demos/
+docs/
+frame/
+pyrosim/
+ToDoList.txt
+robot.p
+makedocs.sh
+build.sh
+README.md
+*.pyc
+/.idea
